@@ -28,4 +28,4 @@ I is in A, V is in V, R is in Ohms
 
 ### LEDs
 
-- 330ohm resistor
+- 220ohm resistor
